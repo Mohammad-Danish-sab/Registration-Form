@@ -19,7 +19,7 @@ function UserCard({ user }) {
           <b>Email:</b> {user.email}
         </p>
         <p>
-            <b>Password:</b> {user.password}
+           <b>Password:</b> {user.password}
         </p>
         <p>
           <b>Phone:</b> {user.phone}
